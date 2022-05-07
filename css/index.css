@@ -28,6 +28,7 @@
   
   .header__title-logo {
     font-size: 1rem;
+    color: var(--primary-highlight-color);
     margin: 0;
     transition: var(--all-transitions);
   }
